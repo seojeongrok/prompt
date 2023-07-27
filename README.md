@@ -1,4 +1,4 @@
 # prompt
 ---
 
-## prompt과 관련한 코드 연습
+## prompt과 관련한 코드 연습~
